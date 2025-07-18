@@ -6,6 +6,7 @@ This template standardizes Pull Requests for this repository. Please complete ea
 -->
 
 # 🚀 <PR NAME>
+
 <!-- Ejemplo: feat: Implementación del patrón Singleton en módulo de facturación -->
 <!-- Example: feat: Implementation of the Singleton pattern in the billing module -->
 
@@ -69,5 +70,5 @@ This template standardizes Pull Requests for this repository. Please complete ea
 
 ---
 
-✅ *Gracias por contribuir al proyecto educativo de POO II.*  
-✅ *Thanks for contributing to the POO II learning project.*
+✅ _Gracias por contribuir al proyecto educativo de POO II._
+✅ _Thanks for contributing to the POO II learning project._
