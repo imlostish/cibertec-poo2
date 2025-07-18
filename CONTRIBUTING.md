@@ -2,6 +2,7 @@
 
 Thank you for your interest in contributing to this C# learning repository!
 A quick guide to ensure your contributions are clear, useful, and aligned with the project's objectives.
+
 ---
 
 ## 📌 Prerequisites
@@ -19,6 +20,7 @@ Before contributing, make sure you:
 You can contribute in several ways. Here are some suggestions:
 
 ### ✅ Functional Contribution
+
 - 📘 **New code examples**
   Simple or advanced cases that demonstrate concepts of OOP, LINQ, collections, etc.
 
@@ -32,6 +34,7 @@ You can contribute in several ways. Here are some suggestions:
   Refactor a project by changing its architectural approach.
 
 ### 🔧 Technical Contribution
+
 - 🛠️ **Refactor existing code**
   Improve code readability, structure, or performance.
 
@@ -46,6 +49,7 @@ You can contribute in several ways. Here are some suggestions:
 ## 📝 Best Practices
 
 - **Document your changes**
+
   - Include a brief summary of what you did and why.
   - Use clear comments if necessary in the code.
   - Add external resources if they help understand your contribution.
@@ -54,7 +58,7 @@ You can contribute in several ways. Here are some suggestions:
   ```bash
   git branch -c project/new-topic
   git switch project/new-topic
-  ``` 
+  ```
 - Use semantic commits (Conventional Commits)
 
   See the official [conventionalcommits](https://www.conventionalcommits.org/en/v1.0.0/)
@@ -75,7 +79,7 @@ Fork the repository and work on your fork.
 git clone https://github.com/imlostish/cibertec-csharp-pooii.git
 git branch -c project/new-topic
 git switch project/new-topic
-``` 
+```
 
 Make sure your changes don't break existing code.
 
