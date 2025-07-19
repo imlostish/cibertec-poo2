@@ -1,7 +1,17 @@
 ﻿services:
-  test:
-    image: test
+  welcome-example:
     build:
-      context: .
-      dockerfile: Test/Dockerfile
-
+      context: ./projects/examples/welcome
+      dockerfile: ../../docker/welcome-example.Dockerfile
+    ports:
+      - "5001:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+  welcome-guide:
+    build:
+      context: ./projects/guides/welcome
+      dockerfile: ../../docker/welcome-guide.Dockerfile
+    ports:
+      - "5002:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
