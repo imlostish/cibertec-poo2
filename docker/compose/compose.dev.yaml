@@ -1,4 +1,6 @@
-﻿services:
+﻿name: cibertec-poo2
+
+services:
   welcome-example:
     build:
       context: ./projects/examples/welcome
